@@ -1,7 +1,7 @@
 # MoneyFlow-Monitor
-MoneyFlow Monitor is a web-based application. It provides the user with a real-time financial dashboard for monitoring and analyzing live financial data. In this project, React is used to build the user interface and Azure to store and deliver real-time data.
+MoneyFlow Monitor is a web-based application. It provides the user with a real-time financial dashboard for monitoring and analyzing his own portfolio. In this project, React is used to build the user interface and Azure to store and deliver real-time data.
 ## Goal of the project
-The main objective of this project is to create an interactive financial dashboard that displays crucial information such as share prices, exchange rates, stock market indices, etc. in real time. This will enable users to make informed decisions by monitoring current financial trends.
+The main objective of this project is to create an interactive financial dashboard that displays crucial information about our own portfolio (such as share prices, stock market indices, total worth value of the portfolio, etc) in real time. This will enable users to make informed and financial decisions by monitoring his portfolio.
 ## Key functionnalities
 ### Automatic update
 A mechanism for automatically updating the dashboard at regular intervals is needed to ensure that data is always up to date.
