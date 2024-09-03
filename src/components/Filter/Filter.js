@@ -17,6 +17,7 @@ export function Filter() {
                 <label>Crypto</label>
                 <input type="checkbox"></input>
                 <label>ETFs</label>
+                <input type="checkbox"></input>
                 <label>Time</label>
                 <input type="checkbox"></input>
                 <label>1d</label>
@@ -28,6 +29,7 @@ export function Filter() {
                 <label>1y</label>
                 <input type="checkbox"></input>
                 <label>All</label>
+                <input type="checkbox"></input>
                 <input type="submit"></input>
             </form>
         </div>
